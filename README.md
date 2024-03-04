@@ -19,6 +19,6 @@
 ¡Conéctate conmigo en LinkedIn o envíame un correo electrónico! Estoy abierto a colaboraciones, discusiones y nuevas oportunidades.
 
 - LinkedIn: [Giovanni Barroso](enlace a tu perfil de LinkedIn)
-- Correo electrónico: tu@email.com
+- Correo electrónico: giovanni.baralv@gmail.com
 
 ¡Gracias por visitar mi perfil! Espero que encuentres interesantes mis proyectos y contribuciones. No dudes en ponerte en contacto si tienes alguna pregunta o sugerencia. 😊
