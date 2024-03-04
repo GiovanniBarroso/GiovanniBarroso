@@ -5,7 +5,6 @@
 ## Acerca de mí
 
 - 💻 Desarrollador de software con experiencia en múltiples tecnologías y lenguajes de programación.
-- 🎓 Graduado en Ingeniería Informática, siempre buscando expandir mis conocimientos.
 - 🌱 Apasionado por el código limpio, la arquitectura de software y las mejores prácticas de desarrollo.
 - 🔭 Actualmente explorando proyectos relacionados con [menciona algunas áreas de interés, por ejemplo: desarrollo web, inteligencia artificial, aplicaciones móviles, etc.].
 
