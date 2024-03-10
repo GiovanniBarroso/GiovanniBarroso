@@ -1,13 +1,5 @@
 <div align="center">
-  <h1>Giovanni Barroso</h1>
-  <p>¡Hola! 👋 Soy Giovanni Barroso, un apasionado del desarrollo de software y la tecnología en general. Me encanta crear soluciones innovadoras y aprender constantemente sobre nuevas herramientas y tecnologías.</p>
-
-  <h2>Acerca de mí</h2>
-  <ul>
-    <li>💻 Desarrollador de software con experiencia en múltiples tecnologías y lenguajes de programación.</li>
-    <li>🌱 Apasionado por el código limpio, la arquitectura de software y las mejores prácticas de desarrollo.</li>
-    <li>🔭 Actualmente explorando proyectos relacionados con [menciona algunas áreas de interés, por ejemplo: desarrollo web, inteligencia artificial, aplicaciones móviles, etc.].</li>
-  </ul>
+  
   <div align="center">
   <h1>Giovanni Barroso</h1>
   <p>¡Hola! 👋 Soy Giovanni Barroso, un apasionado del desarrollo de software y la tecnología en general. Me encanta crear soluciones innovadoras y aprender constantemente sobre nuevas herramientas y tecnologías.</p>
