@@ -21,8 +21,8 @@
 
   <h2>My Featured Projects</h2>
   <ul>
-    <li>🚀 <a href="https://github.com/GiovanniBarroso/JAVA-ONEPIECE-GAME">JAVA ONE PIECE GAME</a>: Video game created in Java using Java.swing about One Piece</li>
-    <li>🌟 <a href="https://github.com/GiovanniBarroso/One-Piece-Page">One Piece Page</a>: User manual, instructions and details created for my videogame One-Piece-Game.</li>
+    <li>🚀 <a href="https://github.com/GiovanniBarroso/JAVA-ONEPIECE-GAME">JAVA ONE PIECE GAME</a> : Video game created in Java using Java.swing about One Piece</li>
+    <li>🌟 <a href="https://github.com/GiovanniBarroso/One-Piece-Page">ONE PIECE PAGE</a> : User manual, instructions and details created for my videogame One-Piece-Game.</li>
   </ul>
 
   <h2>Reach me on</h2>
