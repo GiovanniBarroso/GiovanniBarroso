@@ -54,27 +54,33 @@
 
 <br>
 
-### 🛠️ **Frameworks & Librerías favoritas**
-*Mis compañeros de batalla...*
-
+### 🛠️ **Frameworks, Librerías y herramientas**
+*Frameworks..*
 <br>
-
+<div>
 <p align="center">
   <img src="https://img.shields.io/badge/Vue.js%20-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js">
   <img src="https://img.shields.io/badge/Express.js%20-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
   <img src="https://img.shields.io/badge/Node.js%20-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
 </p>
+  
+<br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Laravel%20-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
   <img src="https://img.shields.io/badge/Bootstrap%20-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
   <img src="https://img.shields.io/badge/SASS%20-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS">
 </p>
+</div>
 
+*Herramientas*
 <p align="center">
   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT">
   <img src="https://img.shields.io/badge/Bootstrap%20-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
   <img src="https://img.shields.io/badge/SASS%20-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS">
+  <img src="https://img.shields.io/badge/Figma%20-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/Aseprite%20-7D929E?style=for-the-badge&logo=aseprite&logoColor=white" alt="Aseprite">
 </p>
 
 <br>
@@ -90,18 +96,6 @@
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="MSSQL">
   <img src="https://img.shields.io/badge/MySQL%20-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/Docker%20-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-</p>
-
-
-
-<br>
-
-### 🔧 **Herramientas**
-*Lo que uso para crear magia...*
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Figma%20-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/Aseprite%20-7D929E?style=for-the-badge&logo=aseprite&logoColor=white" alt="Aseprite">
 </p>
 
 <br>
