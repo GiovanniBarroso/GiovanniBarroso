@@ -171,7 +171,6 @@ const giovanni = {
     nombre: "Giovanni Barroso",
     ubicacion: "España 🇪🇸",
     rol: "Full-Stack Developer",
-    experiencia: "2+ años",
     
     // 🎯 Stack principal
     stack: {
