@@ -1,108 +1,85 @@
 # 🚀 ¡Hola! Soy Giovanni Barroso
 
-<br>
-
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=👋+Desarrollador+apasionado+por+la+tecnología;🎮+Creador+de+videojuegos+y+aplicaciones;💡+Siempre+aprendiendo+algo+nuevo;🌟+Convirtiendo+ideas+en+código)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=800&lines=👋+Desarrollador+Full-Stack;🎮+Creador+de+experiencias+digitales;💡+Transformando+ideas+en+código;🌟+Siempre+innovando)
   
   <br>
   
+  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 20px 0;">
+    
   ### 💭 *"El código es poesía, y cada función cuenta una historia"*
+    
+  </div>
   
   <br>
   
-   **Actualmente enfocado en:** Desarrollo web full-stack y creación de experiencias interactivas
-  
-   **Ubicación:** España 🇪🇸 | 📧 **Siempre disponible para colaborar**
+  🎯 **Actualmente:** Desarrollo web full-stack y experiencias interactivas  
+  📍 **España** 🇪🇸 | 📧 **Siempre disponible para colaborar**
   
   <br>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/giovanni-barroso/)
-  [![Email](https://img.shields.io/badge/Email-Hablemos-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:giovanni.baralv@gmail.com)
+  [![Email](https://img.shields.io/badge/Email-Hablemos-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:giovanni.baralv@gmail.com)
   
 </div>
 
-<br>
-
 ---
-
-<br>
 
 ## 🧠 Mi Arsenal Tecnológico
 
-> *"Las herramientas no hacen al desarrollador, pero un buen desarrollador sabe elegir las mejores herramientas"*
+<div align="center">
 
-<br>
+### 🎨 **Frontend & UI/UX**
 
-### 🎨 **Lenguajes que domino** 
-*Con los que me expreso mejor...*
-
-<br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript%20-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Java%20-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Python%20-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PHP%20-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/HTML5%20-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3%20-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+<p>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 </p>
 
-<br>
+### ⚙️ **Backend & APIs**
 
-### 🛠️ **Frameworks, Librerías y herramientas**
-*Frameworks..*
-<br>
-<div>
-<p align="center">
-  <img src="https://img.shields.io/badge/Vue.js%20-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js">
-  <img src="https://img.shields.io/badge/Express.js%20-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
-  <img src="https://img.shields.io/badge/Node.js%20-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
 </p>
-  
-<br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Laravel%20-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
-  <img src="https://img.shields.io/badge/Bootstrap%20-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
-  <img src="https://img.shields.io/badge/SASS%20-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS">
+<p>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT">
+  <img src="https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal">
 </p>
+
+### 💻 **Lenguajes & Herramientas**
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white" alt="Aseprite">
+</p>
+
+### 🗄️ **Bases de Datos**
+
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
+</p>
+
 </div>
 
-*Herramientas*
-<p align="center">
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT">
-  <img src="https://img.shields.io/badge/Bootstrap%20-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/SASS%20-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS">
-  <img src="https://img.shields.io/badge/Figma%20-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/Aseprite%20-7D929E?style=for-the-badge&logo=aseprite&logoColor=white" alt="Aseprite">
-</p>
-
-<br>
-
-### 🗃️ **Datos**
-*Para manejar mis datos...*
-
-<br>
-
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB%20-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="MSSQL">
-  <img src="https://img.shields.io/badge/MySQL%20-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Docker%20-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-</p>
-
-<br>
-
 ---
-
-<br>
 
 ## 📊 Mi Actividad en GitHub
 
@@ -114,121 +91,129 @@
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=GiovanniBarroso&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniBarroso&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GiovanniBarroso&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
 <br>
 
 ---
 
-<br>
-
-## 🎮 Mis Proyectos Destacados
-
-> *"Cada proyecto es una nueva aventura, cada línea de código una nueva historia"*
-
-<br>
+## 🎮 Proyectos Destacados
 
 <div align="center">
+
+### 🍪 **AYMICOOKIE**
+<img src="https://img.shields.io/badge/Estado-Completado-28a745?style=flat-square"> <img src="https://img.shields.io/badge/Tipo-Empresarial-blue?style=flat-square">
+
+> *Proyecto empresarial de galletas artesanales con Laravel Blade*
+
+**🎯 Objetivo:** Crear una web moderna para una SLNE ficticia  
+**⚡ Aprendizajes:** Blade templating, estructura fiscal, modelo de negocio digital  
+
+**[🔗 Ver Repositorio](https://github.com/GiovanniBarroso/aymicookie)**
+
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+
+---
+
+### ⚙️ **FASTFIX**
+<img src="https://img.shields.io/badge/Estado-TFG\Completado-gold?style=flat-square"> <img src="https://img.shields.io/badge/Arquitectura-Desacoplada-purple?style=flat-square">
+
+> *Plataforma integral de reparaciones y venta tecnológica*
+
+**🎯 Objetivo:** Solución completa con Vue frontend + Laravel backend  
+**⚡ Aprendizajes:** JWT, 2FA, pagos PayPal, PDF facturas, SPA + API REST  
+
+**[🔗 Ver Repositorio](https://github.com/GiovanniBarroso/FastFix)**
+
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white">
+<img src="https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal">
+
+---
 
 ### 🏴‍☠️ **ONE PIECE ADVENTURE GAME**
-> *"¡Navega por el Grand Line desde tu terminal!"*
+<img src="https://img.shields.io/badge/Estado-Completado-28a745?style=flat-square"> <img src="https://img.shields.io/badge/Tipo-Gaming-ff69b4?style=flat-square">
 
-🎯 **¿Qué es?** Un videojuego interactivo inspirado en el universo de One Piece  
-⚡ **¿Por qué lo hice?** Combinar mi pasión por el anime con la programación  
-🎨 **¿Qué aprendí?** Gestión de estados, interfaces gráficas y lógica de juegos  
+> *¡Navega por el Grand Line desde tu terminal!*
 
-**[🔗 Explorar el proyecto](https://github.com/GiovanniBarroso/JAVA-ONEPIECE-GAME)**
+**🎯 Objetivo:** Videojuego Java con interfaz Swing  
+**⚡ Aprendizajes:** Gestión de estados, lógica de juego, UI personalizada  
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Swing](https://img.shields.io/badge/Swing-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+**[🔗 Ver Repositorio](https://github.com/GiovanniBarroso/JAVA-ONEPIECE-GAME)**
 
-<br>
-<br>
-
-### 💰 **NANOBANK**
-> *"Banca digital del futuro, hecha hoy"*
-
-🎯 **¿Qué es?** Una aplicación bancaria moderna con interfaz intuitiva  
-⚡ **¿Por qué lo hice?** Explorar fintech y crear soluciones reales  
-🎨 **¿Qué aprendí?** Arquitectura de software, seguridad y UX  
-
-**[🔗 Descubrir el proyecto](https://github.com/GiovanniBarroso/NanoBank)**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-</div>
-
-<br>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/Swing-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 
 ---
 
-<br>
+### 💰 **NANOBANK**
+<img src="https://img.shields.io/badge/Estado-Completado-28a745?style=flat-square"> <img src="https://img.shields.io/badge/Tipo-Educativo-orange?style=flat-square">
+
+> *Banca digital del futuro, hecha hoy*
+
+**🎯 Objetivo:** Aplicación bancaria con transferencias, Bizum e inversiones  
+**⚡ Aprendizajes:** Login seguro, tests, diseño responsive, ERD, documentación  
+
+**[🔗 Ver Repositorio](https://github.com/GiovanniBarroso/NanoBank)**
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+
+</div>
+
+---
 
 ## 🎭 Más sobre mí
-
-<br>
 
 ```javascript
 const giovanni = {
     // 🏠 Datos básicos
     nombre: "Giovanni Barroso",
     ubicacion: "España 🇪🇸",
-    rol: "Software Developer",
+    rol: "Full-Stack Developer",
+    experiencia: "2+ años",
     
-    // 💝 Lo que me apasiona
+    // 🎯 Stack principal
+    stack: {
+        frontend: ["Vue.js", "JavaScript", "TailwindCSS"],
+        backend: ["Laravel", "Node.js", "Express"],
+        database: ["MySQL", "MongoDB"],
+        tools: ["Docker", "Figma", "Git"]
+    },
+    
+    // 💝 Pasiones
     pasiones: [
-        "Crear software -💡", 
-        "Resolver problemas complejos 🧩",
-        "Aprender tecnologías nuevas 📚",
+        "Desarrollo web moderno 🚀", 
+        "Arquitecturas escalables 🏗️",
+        "UI/UX que enamora 🎨",
+        "Código limpio y eficiente ✨"
     ],
     
-    // 🎯 En lo que estoy trabajando
-    enfoqueActual: "Desarrollo web full-stack y experiencias interactivas",
+    // 🌟 Estado actual
+    estado: "Buscando nuevos retos profesionales",
+    disponible: true,
     
-    // 🌟 Dato curioso
-    funFact: "Puedo debuggear código mejor después de un café ☕",
+    // 💭 Filosofía de código
+    filosofia: "La simplicidad es la máxima sofisticación",
     
-    // 💭 Mi filosofía
-    filosofia: "El código limpio es amor propio",
-    
-    // 🎵 Música para programar
-    playlist: "Lo-fi , EDM, Dubsted.. De todo un poco"
+    // 🚀 Próximo objetivo
+    proximoReto: "Contribuir a proyectos open source y crear SaaS propios"
 };
 
-// 🚀 Mi próximo objetivo
-giovanni.proximoReto = "Contribuir a proyectos open source y crear mi propio framework";
+console.log(`${giovanni.nombre} está listo para crear cosas increíbles! 🚀`);
 ```
 
-<br>
-
 ---
 
-<br>
-
-## 📈 Mi Ritmo de Desarrollo
-
-> *"La consistencia es la clave del éxito"*
-
-<br>
+## 📈 Actividad de Desarrollo
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GiovanniBarroso&theme=tokyo-night&bg_color=0D1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GiovanniBarroso&theme=react-dark&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ff6b6b&area=true&hide_border=true" alt="Activity Graph" />
 </div>
-
-<br>
 
 ---
 
-<br>
-
 ## 🤝 ¡Conectemos!
-
-<br>
 
 <div align="center">
   
@@ -240,25 +225,20 @@ giovanni.proximoReto = "Contribuir a proyectos open source y crear mi propio fra
   <br>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hablemos%20de%20tecnología-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanni-barroso/)
-  [![Gmail](https://img.shields.io/badge/Email-Mándame%20un%20mensaje-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giovanni.baralv@gmail.com)
+  [![Gmail](https://img.shields.io/badge/Email-Mándame%20un%20mensaje-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giovanni.baralv@gmail.com)
   
   <br>
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=GiovanniBarroso&color=blueviolet&style=for-the-badge&label=Visitantes)
+  ![Profile Views](https://komarev.com/ghpvc/?username=GiovanniBarroso&color=00d9ff&style=for-the-badge&label=Visitantes)
+  [![GitHub followers](https://img.shields.io/github/followers/GiovanniBarroso?logo=github&style=for-the-badge&color=00d9ff&labelColor=0d1117)](https://github.com/GiovanniBarroso)
   
 </div>
 
-<br>
-
 ---
-
-<br>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
-
-<br>
 
 <div align="center">
   
@@ -266,15 +246,21 @@ giovanni.proximoReto = "Contribuir a proyectos open source y crear mi propio fra
   
   <br>
   
-  ⭐ **Si algún repositorio te resulta útil o interesante, ¡no olvides darle una estrella!**  
-  🙏 **Cada estrella es una sonrisa para un desarrollador**
+  ⭐ **¿Te gustó algún repo? ¡Dale una estrella!**  
+  🤝 **¿Quieres colaborar? ¡Hagamos algo increíble juntos!**  
+  💬 **¿Tienes dudas? ¡No dudes en preguntar!**
   
   <br>
   
   ---
   
-  💡 **Tip del día:** *Siempre comenta tu código como si la persona que lo va a mantener fuera un psicópata violento que sabe dónde vives* 😄
+  <details>
+  <summary>💡 <b>Tip de desarrollador del día</b></summary>
+  <br>
+  <i>"Siempre comenta tu código como si la persona que lo va a mantener fuera un psicópata violento que sabe dónde vives"</i> 😄
+  <br><br>
+  </details>
+  
+  **Gracias por visitar mi perfil! 🚀**
   
 </div>
-
-<br>
