@@ -34,9 +34,15 @@
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+</p>
+
+<p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
 </p>
 
 <p>
@@ -52,29 +58,37 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot">
+</p>
+
+<p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT">
-  <img src="https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal">
-</p>
-
-### 💻 **Lenguajes & Herramientas**
-
-<p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white" alt="Aseprite">
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs">
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT">
+  <img src="https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal">
 </p>
 
 ### 🗄️ **Bases de Datos**
 
 <p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
+</p>
+
+### 🛠️ **Herramientas & DevOps**
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white" alt="Aseprite">
 </p>
 
 </div>
@@ -91,6 +105,11 @@
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=GiovanniBarroso&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniBarroso&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GiovanniBarroso&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak Stats"/>
+</div>
+
 <br>
 
 ---
@@ -172,12 +191,24 @@ const giovanni = {
     ubicacion: "España 🇪🇸",
     rol: "Full-Stack Developer",
     
-    // 🎯 Stack principal
+    // 🎯 Stack tecnológico completo
     stack: {
-        frontend: ["Vue.js", "JavaScript", "TailwindCSS"],
-        backend: ["Laravel", "Node.js", "Express"],
-        database: ["MySQL", "MongoDB"],
-        tools: ["Docker", "Figma", "Git"]
+        frontend: {
+            frameworks: ["Vue.js", "React"],
+            languages: ["JavaScript", "TypeScript", "HTML5", "CSS3"],
+            styling: ["TailwindCSS", "Bootstrap", "Sass"],
+            tools: ["Vite"],
+            design: ["Figma"]
+        },
+        backend: {
+            languages: ["JavaScript", "PHP", "Java", "Python"],
+            frameworks: ["Laravel", "Node.js", "Express.js", "Spring Boot"],
+            apis: ["REST APIs", "GraphQL"],
+            auth: ["JWT"],
+            payments: ["PayPal"]
+        },
+        databases: ["MySQL", "PostgreSQL", "MongoDB", "SQL Server", "SQLite"],
+        tools: ["Docker", "Git", "Aseprite"]
     },
     
     // 💝 Pasiones
@@ -191,6 +222,7 @@ const giovanni = {
     // 🌟 Estado actual
     estado: "Buscando nuevos retos profesionales",
     disponible: true,
+    explorando: ["GraphQL", "PostgreSQL", "React Native"],
     
     // 💭 Filosofía de código
     filosofia: "La simplicidad es la máxima sofisticación",
